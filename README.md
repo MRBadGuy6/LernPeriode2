@@ -8,7 +8,7 @@ Cezar Cranguanu-Cretu
 
 # Leit-Satz 
 
-Diesmal möchte ich versuchen ein Spiel zu programmieren. Allerdings was ich noch nicht genau was. Vieleicht Hang-Man oder Pong. Hauptsache etwas simples Auch will ich weiter programmieren lernen da ich das gefühl habe das ich es nicht kann. Allerdings versuche ich klein anzufangen bevor ich etwas grosses Riskere. Mein Ziel ist es mein know-how zum Programmieren zu festigen. 
+Diesmal möchte ich versuchen, ein Spiel zu programmieren. Allerdings was ich noch nicht genau was. Vielleicht Hang-Man oder Pong. Hauptsache etwas simples Auch will ich weiter programmieren lernen, da ich das Gefühl habe, dass ich es nicht kann. Allerdings versuche ich klein anzufangen, bevor ich etwas Grosses riskiere. Mein Ziel ist es, mein Know-how zum Programmieren zu festigen.
 
 # Arbeitspakete für den 24.10
 - [ ] Arrays repetieren 
