@@ -15,6 +15,3 @@ Diesmal möchte ich versuchen ein Spiel zu programmieren. Allerdings was ich noc
 [ ] Programmieren üben 
 [ ] Kleines Programm erstellen
 [ ] Anfangen ein Spiel programmieren 
-
-
-
