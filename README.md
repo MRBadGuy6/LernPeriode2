@@ -12,6 +12,6 @@ Diesmal möchte ich versuchen ein Spiel zu programmieren. Allerdings was ich noc
 
 # Arbeitspakete für den 31.10 
 
-[ ] Programmieren üben 
-[ ] Kleines Programm erstellen
-[ ] Anfangen ein Spiel programmieren 
+- [ ] Programmieren üben 
+- [ ] Kleines Programm erstellen
+- [ ] Anfangen ein Spiel programmieren 
