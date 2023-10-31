@@ -42,5 +42,5 @@ Dieses Mal werde ich anfangen mit dem Hangman spiel. Allerdings wird das eine We
 
 - [ ] Ein Programm schreiben wo man ein Buchstabe erraten soll
 - [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
-- [ ] Versuchen Beide Programme zu implementieren 
+- [ ] Versuchen Beide Programme zu fusionieren 
 
