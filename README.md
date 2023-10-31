@@ -28,4 +28,4 @@ Ich werde sicher anfangen das Hangman Spiel zu programieren solange nichts im We
 
 - [ ] Ein Dictinoary im Switch-Case Programm integrieren 
 - [ ] Ein Programm erstelllen wo man Buchstaben erraten soll
-- [ ] EIn Programm erstellen wo man nach eine WOrt Fragt und das Programm sagt die Anzahl Buchstaben 
+- [ ] EIn Programm erstellen wo man nach eine Wort Fragt und das Programm sagt die Anzahl Buchstaben 
