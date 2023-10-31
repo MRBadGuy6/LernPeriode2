@@ -21,11 +21,26 @@ Ich habe konzentriert am Modul 319 gearbeitet und finde das ich Arrays Plus Minu
 
 # Leit-Satz
 
-Ich werde sicher anfangen das Hangman Spiel zu programieren solange nichts im Weg kommt. Was schon klar ist, ist dass ich nicht in einem Tag fertig werde sondern etwa 2-4 Tage. 
+Ich werde sicher anfangen das Hangman Spiel zu programieren solange nichts im Weg kommt. Was schon klar ist, ist dass ich nicht in einem Tag fertig werde sondern etwa 2-4 Tagen. 
   
 
 # Arbeitspakete für den 31.10 
 
-- [ ] Ein Dictinoary im Switch-Case Programm integrieren 
+- [x] Ein Dictinoary im Switch-Case Programm integrieren 
 - [ ] Ein Programm erstelllen wo man Buchstaben erraten soll
-- [ ] EIn Programm erstellen wo man nach eine Wort Fragt und das Programm sagt die Anzahl Buchstaben 
+- [ ] EIn Programm erstellen wo man nach eine Wort Fragt und das Programm sagt die Anzahl Buchstaben
+
+# Zusammenfassung 
+
+Ich habe konzentriert gearbeitet konnte allerdings nur ein Arbeitspaket abschlissen weil ich noch mit dem Programm herumexperientiert habe. Zuvor habe ich noch nie mit einem Dictionary gearbeitet was die Sache sehr interssant gemacht hat. Auch habe ich in diesem Porgramm eine while-Schleife eingebaut damit das Programm nicht beendet sobald ich etwas falsches eingebe.
+
+# Leitsatz 
+
+Dieses Mal werde ich anfangen mit dem Hangman spiel. Allerdings wird das eine Weile dauern da ich mir nie sicher bin wo ich anfangen sollte
+
+# Arbeitspakete für den 07.11.23
+
+- [ ] Ein Programm schreiben wo man ein Buchstabe erraten soll
+- [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
+- [ ] Versuchen Beide Programme zu implementieren 
+
