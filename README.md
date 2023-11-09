@@ -40,7 +40,22 @@ Dieses Mal werde ich anfangen mit dem Hangman spiel. Allerdings wird das eine We
 
 # Arbeitspakete für den 07.11.23
 
-- [ ] Ein Programm schreiben wo man ein Buchstabe erraten soll
+- [x] Ein Programm schreiben wo man ein Buchstabe erraten soll
 - [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
-- [ ] Versuchen Beide Programme zu fusionieren 
+- [ ] Versuchen Beide Programme zu fusionieren
+
+# Zusammenfassung
+
+Ich habe gut gearbeitet allerdings war ich noch langsamer als das letzte Mal. Aufjeden fall bin ich beim Hangman ein Schritt weiter gekommen was eine Tolle Sache ist. Ist immer eine Tolle Sache mal von zu Hause oder von der Schule aus zu arbeiten. Gute Abwechslung  
+
+# Leit-Satz 
+
+Allerdings werde ich das Hangmanprojekt auf Eis legen da wir beauftragt worden sind ein Programm für einer unserer Lehrpersonen zu erstellen.
+
+# Arbeitspakete für den 13.11
+
+- [ ] Einen Zufallsgenerator mit Wörtern Programmieren 
+- [ ] Eine Schleife einbauen damit mich das Programm fragen kann ob ich mit dem Zufälliggenerierten Wort einverstanden bin
+- [ ] Mehrere Zufallsgeneratoren in einem einbauen
+
 
