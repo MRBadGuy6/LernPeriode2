@@ -52,10 +52,25 @@ Ich habe gut gearbeitet allerdings war ich noch langsamer als das letzte Mal. Au
 
 Allerdings werde ich das Hangmanprojekt auf Eis legen da wir beauftragt worden sind ein Programm für einer unserer Lehrpersonen zu erstellen.
 
-# Arbeitspakete für den 13.11
+# Arbeitspakete für den 13.11.23
 
-- [ ] Einen Zufallsgenerator mit Wörtern Programmieren 
-- [ ] Eine Schleife einbauen damit mich das Programm fragen kann ob ich mit dem Zufälliggenerierten Wort einverstanden bin
-- [ ] Mehrere Zufallsgeneratoren in einem einbauen
+- [x] Einen Zufallsgenerator mit Wörtern Programmieren 
+- [x] Eine Schleife einbauen damit mich das Programm fragen kann ob ich mit dem Zufälliggenerierten Wort einverstanden bin
+- [x] Mehrere Zufallsgeneratoren in einem einbauen
+
+# Zusammenfassung 
+
+Ich habe noch nie so fokusiert an einem Projekt gearbeitet. Unser Projekt ist ein Ideengenerator. Der Ideengenerator dient dafür um inspiration zu sammeln für eine Kurzgeschichte. Es werden mehrere Ideengeneratorn gebraucht da wir es in Verschiedne Kategorien aufgeteilt haben z.B. Figur (Alien, Mensch) Ort (Weltraum, Ozean) u.a. Auch ist es mir gelungen (mit Hilfe von Chat GPT) eine Schleife einzubauen. Diese Schleife sorgt dafür das ich das richtige eingebe. Also falls ich mit dieser Figur einverstanden bin und weiter machen kann. 
+
+# Leit-Satz 
+
+Nächste Woche werde ich versuchen das Programm zu Ende zu schreiben und es als eine .exe Datei umzuwandeln
+
+# Arbeitspakete für den 21.11.23
+- [ ] Programm fertig schreiben (Version 1.0)
+- [ ] Programm umwandeln in .exe
+- [ ] Programm austesten
+
+`
 
 
