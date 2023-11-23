@@ -67,10 +67,22 @@ Ich habe noch nie so fokusiert an einem Projekt gearbeitet. Unser Projekt ist ei
 Nächste Woche werde ich versuchen das Programm zu Ende zu schreiben und es als eine .exe Datei umzuwandeln
 
 # Arbeitspakete für den 21.11.23
-- [ ] Programm fertig schreiben (Version 1.0)
-- [ ] Programm umwandeln in .exe
-- [ ] Programm austesten
+- [x] Programm fertig schreiben (Version 1.0)
+- [x] Fehler in Programm beheben 
+- [x] Programm austesten
 
-`
+# Zusammenfassung 
+
+Es hat mir schon viel Zeit gekostet, aber es hat sich auf jeden Fall gelohnt. Ich bin edlich mit dem Programm fertig geworden. Die Zusätlichen Ziele von unserer Kundin konnte ich erfolgreich im Programm hinzufügen. Das einzige was noch fehlt damit das Projekt zu 100% abgeschlossen ist, ist das ich das Programm in eine .exe Datei umwandle, weil es sehr leingweillig wäre ihr den Code zu schicken. 
+
+# Leit-Satz
+
+Das Programm in eine .exe Datei umwandeln und dannach eventuell mit den Hangman-Game beginnen.
+
+# Arbeitspakete für den 28.11.23
+
+- [ ] Programm in eine exe Datei umwandeln
+- [ ] Ein Programm schreiben wo man ein Buchstabe erraten soll
+- [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
 
 
