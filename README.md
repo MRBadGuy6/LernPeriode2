@@ -81,8 +81,23 @@ Das Programm in eine .exe Datei umwandeln und dannach eventuell mit den Hangman-
 
 # Arbeitspakete für den 28.11.23
 
-- [ ] Programm in eine exe Datei umwandeln
-- [ ] Ein Programm schreiben wo man ein Buchstabe erraten soll
+- [x] Programm in eine exe Datei umwandeln
+- [x] Icon für die exe Datei hinzufügen
 - [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
+
+  # Zusammenfassung
+
+    Ich habe sehr grosse Schreitte gemacht da es mir endlich gelungen ist ein Programm in eine Exe datei umzuwandeln. Leider konnte ich nicht mit den Hangman Game beginnen weil ich nicht dazugekommen bin.
+
+# Leit-Satz 
+
+Dieses Mal werde ich tatsächlich mit dem Hangman Game beginnen, weil ich mit dem anderen Projekt fertig bin 
+
+# Arbeitspakete für den 05.12.23
+
+- [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
+- [ ] Ein Programm ersztellen wo man ein Wort erraten muss
+- [ ] Beide Programme mixen 
+
 
 
