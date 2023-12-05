@@ -89,15 +89,29 @@ Das Programm in eine .exe Datei umwandeln und dannach eventuell mit den Hangman-
 
     Ich habe sehr grosse Schreitte gemacht da es mir endlich gelungen ist ein Programm in eine Exe datei umzuwandeln. Leider konnte ich nicht mit den Hangman Game beginnen weil ich nicht dazugekommen bin.
 
-# Leit-Satz 
+ # Leit-Satz 
 
 Dieses Mal werde ich tatsächlich mit dem Hangman Game beginnen, weil ich mit dem anderen Projekt fertig bin 
 
 # Arbeitspakete für den 05.12.23
 
 - [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
-- [ ] Ein Programm ersztellen wo man ein Wort erraten muss
+- [x] Ein Programm ersztellen wo man ein Wort erraten muss
 - [ ] Beide Programme mixen 
 
+  # Zusammenfassung
+
+Bestimmt fragen sie sich weshalb ich nur ein Arbeitspaket erledigt habe. Das hat einen sehr guten Grund. Mein Programm hat funktioniert, allerdings konnte ich nichts erraten weil egal was ich eingetippt habe war Falsch, ChatGPT meinte das mit dem Programm nichts falsch sei was die Sache noch verwirrender macht.
+
+ # Leit-Satz
+
+ Ich werde versuchen das Programm zu fixieren und die Restlichen Programme anzufangen. Vielleicht probiere ich auch den Adventskalender Aus 
+
+ # Arbeitspakete für den 12.12.23
+
+- [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
+- [x] Ein Programm ersztellen wo man ein Wort erraten muss (fixieren)
+- [ ] Adventskalender 1. Tag ausprobieren 
+ 
 
 
