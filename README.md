@@ -109,9 +109,23 @@ Bestimmt fragen sie sich weshalb ich nur ein Arbeitspaket erledigt habe. Das hat
 
  # Arbeitspakete für den 12.12.23
 
-- [ ] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
+- [x] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
 - [x] Ein Programm ersztellen wo man ein Wort erraten muss (fixieren)
-- [ ] Adventskalender 1. Tag ausprobieren 
- 
+- [ ] Adventskalender 1. Tag ausprobieren
+
+# Zusammenfassung
+
+ Heute war ein sehr produktiver Tag. Ich konnte beide Programme abschlissen. Allerdings bin ich nicht dazugekommen das Advenskalender auszuprobieren. Ansonsten konnte ich problemlos arbeiten 
+
+ # Leit-Satz 
+
+ Beide Programme zu einem mixen--> Hangman
+
+ # Arbeitspakte für den 19.12.23
+
+ - [ ] Adventskalender 1. Tag ausprobieren
+ - [ ] Beide Programme mixen
+ - [ ] Programm testen 
+
 
 
