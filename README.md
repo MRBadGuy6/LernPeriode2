@@ -110,7 +110,7 @@ Bestimmt fragen sie sich weshalb ich nur ein Arbeitspaket erledigt habe. Das hat
  # Arbeitspakete für den 12.12.23
 
 - [x] Ein Programm erstellen wo man nach einen Wort Fragt und das Programm sagt die Anzahl Buchstaben
-- [x] Ein Programm ersztellen wo man ein Wort erraten muss (fixieren)
+- [x] Programm austesten
 - [ ] Adventskalender 1. Tag ausprobieren
 
 # Zusammenfassung
@@ -119,13 +119,19 @@ Bestimmt fragen sie sich weshalb ich nur ein Arbeitspaket erledigt habe. Das hat
 
  # Leit-Satz 
 
- Beide Programme zu einem mixen--> Hangman
+ Rate Programm fixieren 
 
  # Arbeitspakte für den 19.12.23
 
- - [ ] Adventskalender 1. Tag ausprobieren
- - [ ] Beide Programme mixen
- - [ ] Modul 117 Aufgabe 8 Lösen 
+ - [x] Adventskalender 1. Tag ausprobieren
+ - [ ] Programm (Wochentage) fixieren 
+ - [x] Modul 117 Aufgabe 8 Lösen
+
+# Reflexion
+
+Dieser Quartal war sehr interessant. Ich damals genau da vortgesetzt wo ich zuletzt stehen geblieben bin und zwar bei diesem Programm mit den Switchcases. Das hat einen riesen Spass gemacht. Was mir allerdings am Meisten Spass gemacht hat ist ein Programm für unsere Deutschleherein zu schreiben. Bei diesem Programm handelt es sich um Einen Ideengenerator für eine Kurzgeschichte. Es gibt dann sechs Kategorien und diese werden dann durchlaufen. Es hat sehr viel Zeit in anspruch genommen, aber dafür war das Feedback sehr Positiv. Ich habe am meisten daran gearbeitet und bin sehr Stolz auf dieses Projekt. Auch gab es Tage an den ich für Informatikprüfungen lernen musste, was sich allerdings sehr golhnt hat. Aktuell bin ich am Hangman Game drann aber es dauert länger, weil ich selber genau verstehen will was genau dieser Code bedeutet, nicht das ich einfach weitermache ohne was dabei zu lernen. Auch bin ich auf Bugs gestossen. z.B. Muss ich ein Wochentag erraten, allerdings sind alle Wochentage falsch. Zu meiner Arbeitweise muss ich sagen das sie gut ist. Es gibt Tage da fällt es mir schwer zu programmieren, dann gibt es wiederrum Tage an denen ich 4h non-stop programmiere. Auch habe ich das gefühl das ich zu viele Ziele setzte, wie z.B beim Hangman. Ich habe an diesem Programm schon etwa 5h gearbeitet obwohl ich dachte das ich schon in 2h durch wäre. Es dauert auch länger weil, wie oben auch erwähnt, versuche ich aller was ich mache zu verstehen. Ansonsten bringt mir das alles nicht. Insgesamt fand ich die Lernperiode realativ ok. Durch solche übungen lerne ich jeden Tag was neues. 
+
+VVS: Nicht zu hohe Ziele setzen 
 
 
 
