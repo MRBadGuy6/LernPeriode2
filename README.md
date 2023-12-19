@@ -125,7 +125,7 @@ Bestimmt fragen sie sich weshalb ich nur ein Arbeitspaket erledigt habe. Das hat
 
  - [ ] Adventskalender 1. Tag ausprobieren
  - [ ] Beide Programme mixen
- - [ ] Programm testen 
+ - [ ] Modul 117 Aufgabe 8 Lösen 
 
 
 
